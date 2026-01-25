@@ -59,9 +59,8 @@ function setupEventListeners() {
     setupNavigation();
     
     // السلة
-*/
-    setupCartListeners();
-    /*
+    setupCartListeners(); //
+   
     // المودالات
     setupModalListeners();
     
